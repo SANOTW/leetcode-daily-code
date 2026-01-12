@@ -1,6 +1,6 @@
 # Question 1: Two Sum
 
-#Solved, #Easy
+#Easy | #array #hash-table
 
 ## Description
 
